@@ -1,4 +1,4 @@
-namespace EncryptionAPIServices.API
+namespace API
 {
     public class WeatherForecast
     {
